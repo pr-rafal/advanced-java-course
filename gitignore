@@ -1,0 +1,22 @@
+//#region Eclipse files//#endregion
+*/.classpath
+*/.gitignore
+*/.project
+*/.settings/org.eclipse.core.resources.prefs
+*/.settings/org.eclipse.jdt.core.prefs
+*/src/module-info.java
+
+//#region Compiled class file//#endregion
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package files //#endregion
+*.jar
