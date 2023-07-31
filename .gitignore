@@ -1,3 +1,11 @@
+#Eclipse files
+*/.classpath
+*/.gitignore
+*/.project
+*/.settings/org.eclipse.core.resources.prefs
+*/.settings/org.eclipse.jdt.core.prefs
+*/src/module-info.java
+
 # Compiled class file
 *.class
 
@@ -22,3 +30,4 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/.metadata/
